@@ -21,7 +21,7 @@
     "express": "^4.16.3",
     "express-session": "^1.15.6",
     "geo-nearby": "^2.0.1",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.7",
     "html-pdf": "^2.2.0",
     "jsonwebtoken": "^8.3.0",
     "moment": "^2.24.0",
