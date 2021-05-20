@@ -22,7 +22,7 @@
     "express-session": "^1.15.6",
     "geo-nearby": "^2.0.1",
     "handlebars": "^4.1.2",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "jsonwebtoken": "^8.3.0",
     "moment": "^2.24.0",
     "mongoose": "^5.2.6",
