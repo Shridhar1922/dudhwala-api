@@ -23,7 +23,7 @@
     "geo-nearby": "^2.0.1",
     "handlebars": "^4.1.2",
     "html-pdf": "^2.2.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "mongoose": "^5.2.6",
     "mongoose-double": "0.0.1",
